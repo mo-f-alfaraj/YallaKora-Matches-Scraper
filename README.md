@@ -83,6 +83,4 @@ Matches_11-11-2026.csv
 - Integrate Pandas for further data processing and analysis.
 
 ## 👨‍💻 Author
-**Mohammed Fathy**
-
-[GitHub Profile](https://github.com/mo-f-alfaraj)
+**Mohammed Alfaraj** [GitHub Profile](https://github.com/mo-f-alfaraj)
